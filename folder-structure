@@ -1,0 +1,16 @@
+src/
+├── app/
+│   ├── _layout.tsx
+│   ├── index.tsx
+│   └── (auth)/
+│       ├── login.tsx
+│       ├── register.tsx
+│       └── forgot-password.tsx
+├── lib/
+│   └── supabase.ts
+├── components/
+│   └── common/
+│       ├── Button.tsx
+│       └── Input.tsx
+└── types/
+    └── index.ts 
